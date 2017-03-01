@@ -1,5 +1,5 @@
 {
-  "name": "arangodb/arangodb",
+  "name": "leotiger/arangodb",
   "type": "library",
   "description": "ArangoDb PHP client",
   "keywords": ["database","ArangoDb","Arango","document store","NoSQL","multi-model","graph database"],
